@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## COME FARLO FUNZIONARE
+
+Per poter far partire il progetto bisogna aver installato
+
+- nodejs
+- npm
+- angular/cli: possibile installarlo tramite questo comando 'npm install -g @angular/cli@latest'
+
+Una volta aver installato il tutto bisogna entrare nel progetto ed eseguire:
+
+'npm install' per scariare tutti i moduli
+'npm run server' per far partire un server json sulla porta 3000, che viene richiamato per simulare un db
+'npm start' per far partire il progetto, la porta impostata è la 4200
