@@ -1,0 +1,50 @@
+{
+  "login": {
+    "token": 1234,
+    "username": "Marione"
+  },
+  "devices": [
+    {
+      "label": "One Plus 6e",
+      "os": "android",
+      "price": 399,
+      "rate": 5,
+      "memory": 7000,
+      "opened": true,
+      "desc": "One Plus 5 is a flagship phone...",
+      "id": 2
+    },
+    {
+      "label": "Nokia 66000000",
+      "os": "others",
+      "id": 26,
+      "desc": "Amazing Device bla bla\n",
+      "price": 99,
+      "memory": 4000,
+      "rate": 2
+    },
+    {
+      "label": "Apple di Pippo",
+      "price": 99,
+      "os": "ios",
+      "desc": "wqdwd",
+      "rate": 2,
+      "opened": true,
+      "id": 28
+    },
+    {
+      "label": "Samsung A20",
+      "price": 333,
+      "os": "android",
+      "rate": 1,
+      "id": 29
+    },
+    {
+      "label": "Honor",
+      "price": 0,
+      "os": "android",
+      "rate": 1,
+      "id": 31
+    }
+  ]
+}
